@@ -6,18 +6,16 @@ This repository contains educational resources, explanations, examples, and prac
 
 ## Topics
 
-### Python Libraries
+## Python Libraries
 
-A collection of Python libraries used in Machine Learning:
-
-- [NumPy](Python-Libraries/NumPy.md)
-- [Pandas](Python-Libraries/Pandas.md)
-- [Matplotlib](Python-Libraries/Matplotlib.md)
-- [Seaborn](Python-Libraries/Seaborn.md)
-- [Scikit-learn](Python-Libraries/Scikit-Learn.md)
-- [TensorFlow](Python-Libraries/TensorFlow.md)
-- [PyTorch](Python-Libraries/PyTorch.md)
-- [OpenCV](Python-Libraries/OpenCV.md)
+- [NumPy](./NumPy.md)
+- [Pandas](./Pandas.md)
+- [Matplotlib](./Matplotlib.md)
+- [OpenCV](./OpenCV.md)
+- [PyTorch](./PyTorch.md)
+- [Scikit-learn](./Scikit-learn.md)
+- [Seaborn](./Seaborn.md)
+- [TensorFlow](./TensorFlow.md)
 
 ## Goal
 
